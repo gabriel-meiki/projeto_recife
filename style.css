@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 400px;
+}
+
+main{
+    padding: 20px;
+}
+
+main section{
+    padding: 10px 20px;
+}
+
+.lugares-turisticos{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+}
+.card{
+    background-color: blueviolet;
+}
+
+
+
+footer{
+    background-color: darkgray;
+}
